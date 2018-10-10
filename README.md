@@ -24,9 +24,9 @@ Our idea revolves around predicting and managing flood disasters in India.
 
 
 We plan on getting our data as:
-> meterological data from Indian Meterological Department
-> Social media text from Twitter,Facebook APIs and Google analytics for word-clouds
-> Satellite imagery from NASA lat-long public datasets, etc. 
+1. Meterological data from Indian Meterological Department
+2. Social media text from Twitter,Facebook APIs and Google analytics for word-clouds
+3. Satellite imagery from NASA lat-long public datasets, etc. 
 
 We plan on implementing the idea using image segmentation and feature learing, text mining and swarm clustering data models to use all the data-formats, so that we get more concrete conclusions and predictions. 
 
