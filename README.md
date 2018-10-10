@@ -30,7 +30,7 @@ We plan on getting our data as:
 
 Once we have acquired the dataset, we plan on implementing the idea using image segmentation and feature learing, text mining and swarm clustering data models to use all the data-formats and correlate the trends so that we get more concrete conclusions and predictions. 
 
-We plan on using hadoop big data anlytics, google big query, fast.ai, tensorflow or pytorch, microsoft cognitive toolkits, etc. The dependencies might change as we dive depper into the dataset.
+We plan on using hadoop big data anlytics, google big query, fast.ai, tensorflow or pytorch, microsoft cognitive toolkits, etc. The dependencies might change as we dive deeper into the dataset.
 
 The deliverables include
   1) a predictive model (in the form of an app, or a website, or a portable service) that takes in the mentioned dataset information through the internet and outputs the mentioned suggestions during pre-disaster and post-disaster. 
